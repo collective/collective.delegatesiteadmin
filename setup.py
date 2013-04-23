@@ -49,6 +49,4 @@ setup(name='collective.delegatesiteadmin',
       [z3c.autoinclude.plugin]
       target = plone
       """,
-      setup_requires=["PasteScript"],
-      paster_plugins=["templer.localcommands"],
       )
