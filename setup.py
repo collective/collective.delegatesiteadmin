@@ -13,7 +13,7 @@ long_description = (
 
 setup(name='collective.delegatesiteadmin',
       version=version,
-      description="Delegation of Site Administrator role through sharing tab",
+      description="Plone : Delegation of Site Administrator role through sharing tab",
       long_description=long_description,
       # Get more strings from
       # http://pypi.python.org/pypi?%3Aaction=list_classifiers
